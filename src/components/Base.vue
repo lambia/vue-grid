@@ -11,6 +11,11 @@ export default {
   beforeMount: {
     
   },
+  data: function () {
+    return {
+      
+    }
+  },
   methods: {
 
   },
